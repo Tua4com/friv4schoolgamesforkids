@@ -1,0 +1,32 @@
+HTTrack3.48-22+htsswf+htsjava launched on Tue, 05 Jul 2016 14:13:02 at http://www.Friv4schoolgamesforkids.Tua3.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*.swf
+
+(winhttrack -qwC2%Ps2u1%s%uN100%I0p3DaK0c6H0%kf2A9000000%f#f -F  -%F  -%l "en, *" http://www.Friv4schoolgamesforkids.Tua3.com -O1 "F:\0 Github\httrack\http___www.Friv4schoolgamesforkids.Tua3.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*.swf -%! )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+14:13:02	Warning: 	* security warning: !!! BYPASSING SECURITY LIMITS - MONITOR THIS SESSION WITH EXTREME CARE !!!
+
+14:19:17	Error: 	"Not Found" (404) at link www.Friv4schoolgamesforkids.Tua3.com/templates/images/bg.gif (from www.Friv4schoolgamesforkids.Tua3.com/templates/style.css)
+
+14:19:17	Error: 	"Not Found" (404) at link www.Friv4schoolgamesforkids.Tua3.com/templates/images/footer.gif (from www.Friv4schoolgamesforkids.Tua3.com/templates/style.css)
+
+14:19:17	Error: 	"Not Found" (404) at link www.Friv4schoolgamesforkids.Tua3.com/templates/images/handle.vertical.png (from www.Friv4schoolgamesforkids.Tua3.com/templates/slider.css)
+
+14:29:09	Error: 	"Not Found" (404) at link www.Friv4schoolgamesforkids.Tua3.com/gng (from www.Friv4schoolgamesforkids.Tua3.com/play/Hall_Of_The_Wild.html)
+
+
+
+HTTrack Website Copier/3.48-22 mirror complete in 16 minutes 10 seconds : 3266 links scanned, 3261 files written (22435499 bytes overall) [11559694 bytes received at 11917 bytes/sec], 16316732 bytes transferred using HTTP compression in 3241 files, ratio 26%, 39.1 requests per connection
+
+(4 errors, 1 warnings, 0 messages)
+

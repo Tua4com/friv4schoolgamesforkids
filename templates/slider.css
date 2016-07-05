@@ -1,0 +1,50 @@
+.dynamic-slider-control { 
+position : relative; 
+cursor : default; 
+} 
+.horizontal { 
+width : 150px; 
+height : 27px; 
+} 
+.vertical { 
+width : 29px; 
+height : 200px; 
+} 
+.dynamic-slider-control input { 
+display : none; 
+} 
+.dynamic-slider-control .handle { 
+position : absolute; 
+font-size : 1px; 
+overflow : hidden; 
+cursor : default; 
+} 
+.dynamic-slider-control.horizontal .handle { 
+width : 12px; 
+height : 10px; 
+background-image : url("images/zoom_slider.png"); 
+} 
+.dynamic-slider-control.vertical .handle { 
+width : 15px; 
+height : 31px; 
+background-image : url("images/handle.vertical.html"); 
+} 
+.dynamic-slider-control .line { 
+position : absolute; 
+font-size : 0.01mm; 
+overflow : hidden; 
+border : 1px solid #161515; 
+background : #fff; 
+} 
+.dynamic-slider-control.vertical .line { 
+width : 3px; 
+} 
+.dynamic-slider-control.horizontal .line { 
+height : 3px; 
+} 
+.dynamic-slider-control .line div { 
+width : 1px; 
+height : 1px; 
+border : 0px solid; 
+border-color : #fff; 
+}
